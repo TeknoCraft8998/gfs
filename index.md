@@ -3,5 +3,5 @@
 __This is a plugin for fs (*file sync*)__
 
 for import the module :
-import gfs from "./gfs/index.js"`
+`import gfs from "./gfs/index.js"
 `
